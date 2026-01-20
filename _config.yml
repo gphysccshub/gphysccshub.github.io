@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Saeed Izadian"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profilephoto.jpg"
   bio    : "Geophysical CCS Monitoring Researcher"
   links:
 #    - label: "Website"
