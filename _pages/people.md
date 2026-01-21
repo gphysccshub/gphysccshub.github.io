@@ -1,8 +1,22 @@
 ---
 permalink: /people/
-title: "People"
+title: "GCCS Community"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Saeed Izadian
+
+Write a more detailed professional or personal summary here. For example:
+
+* **Background:** Over 5 years of experience in [Your Industry].
+* **Interests:** Passionate about renewable energy, 3D modeling, and digital illustration.
+* **Goals:** Currently working on [Project Name] and looking to collaborate on innovative green tech solutions.
+
+
+
+### **Connect with Me**
+
+* **Email:** [s.izadian@hw.ac.uk]
+* **LinkedIn:** [https://www.linkedin.com/in/saeed-izadian-568880b7/]
+* **Google Scholar:** [https://scholar.google.co.uk/citations?user=jexAq4MAAAAJ&hl=en]
+
