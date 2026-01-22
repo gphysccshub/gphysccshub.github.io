@@ -12,6 +12,6 @@ title: "GCCS Community"
 
 #### **Contacts**
 **Email:** s.izadian@hw.ac.uk\
-[**LinkedIn:**](https://www.linkedin.com/in/saeed-izadian-568880b7/)
-[**Google Scholar:**](https://scholar.google.co.uk/citations?user=jexAq4MAAAAJ&hl=en)
+[**LinkedIn**](https://www.linkedin.com/in/saeed-izadian-568880b7/)\
+[**Google Scholar**](https://scholar.google.co.uk/citations?user=jexAq4MAAAAJ&hl=en)\
 
