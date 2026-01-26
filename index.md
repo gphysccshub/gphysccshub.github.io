@@ -9,8 +9,8 @@ excerpt: ""
 header:
   overlay_image: /assets/images/sitebanner.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-#  caption: ""
-#  actions:
-    - label: "Towards Sustainable Future..."
+  caption: ""
+  actions:
+    - label: ""
       url: ""
 ---
