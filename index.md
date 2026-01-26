@@ -3,14 +3,14 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: true
+author_profile: false
 
 excerpt: ""
 header:
   overlay_image: /assets/images/sitebanner.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: ""
-  actions:
+#  caption: ""
+#  actions:
     - label: "Towards Sustainable Future..."
       url: ""
 ---
