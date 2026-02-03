@@ -18,12 +18,20 @@ Our mission is to bridge the gap between emerging talent and industry-leading te
 
 </div> 
 
+![](/assets/images/homepagefig1.png)
+*courtesy of RPS Group*
 
 
+
+### The Hub
 <div style="text-align: justify"> 
-  
-Our mission is to bridge the gap between emerging talent and industry-leading technology. The Geophysical CCS Hub centralizes research on efficient subsurface monitoring solutions, serving as a vital touchpoint for young professionals shaping the future of carbon management. The Geophysical CCS Hub is an interdisciplinary community-driven repository facilitating research into advanced geophysical monitoring frameworks. We are committed to fostering the professional growth of early-career researchers through the exchange of innovative methodologies and peer-reviewed insights.
 
 </div> 
 
 
+
+### Resources
+
+<div style="text-align: justify"> 
+
+</div> 
