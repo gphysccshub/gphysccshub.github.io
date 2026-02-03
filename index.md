@@ -18,10 +18,14 @@ Our mission is to bridge the gap between emerging talent and industry-leading te
 
 </div> 
 
+<br/><br/>
+<br/><br/>
+
 ![](/assets/images/homepagefig1.png)
 *courtesy of RPS Group*
 
-
+<br/><br/>
+<br/><br/>
 
 ### The Hub
 <div style="text-align: justify"> 
