@@ -5,18 +5,18 @@
 layout: single
 author_profile: true
 
+---
+<!-- Welcome Section 
 header:
   image: /assets/images/sitebanner.png
-
----
-
+  -->
 
 <!-- Welcome Section -->
 ### Welcome
 
 <div style="text-align: justify"> 
   
-Geophysical CCS Hub's mission is to bridge the gap between new talents and industry-leading CCS monitoring technologies. The Geophysical CCS Hub centralises research on efficient subsurface monitoring solutions, serving as a vital touchpoint for young professionals shaping the future of carbon management. We are committed to facilitating and fostering the professional growth of early-career researchers through the exchange of innovative methodologies and peer-reviewed research.
+Geophysical CCS Hub's mission is to bridge the gap between new talents and industry-leading CCS monitoring technologies. The Hub centralises research on efficient subsurface monitoring solutions, serving as a touchpoint for young professionals shaping the future of carbon management. We are committed to facilitating the professional growth of early-career researchers through the exchange of innovative methodologies and peer-reviewed research.
 
 </div> 
 
@@ -48,6 +48,8 @@ Geophysical monitoring for Carbon Capture and Storage (CCS) is the primary metho
 Beyond seismic imaging, a multi-physics approach is often employed to provide a comprehensive view of the storage site's integrity. <b>Gravity</b> surveys help distinguish between pressure changes and actual fluid movement, while <b>microseismic</b> monitoring uses sensitive geophones to detect tiny "pops" or fractures in the rock that could indicate stress changes in the caprock. Surface-based tools are frequently complemented by downhole sensors, such as <b>Distributed Acoustic Sensing (DAS)</b> using fiber optics, which provides continuous, real-time data on seismicity. Together, these geophysical datasets act as an early-warning system to confirm that the storage is permanent and the risk of leakage is minimized.
   
 </div> 
+
+![](/assets/images/homepagefig1.png)
 
 <br/><br/>
 
