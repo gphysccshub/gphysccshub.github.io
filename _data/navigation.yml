@@ -1,7 +1,5 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Resources"
-    url: /resources/
   - title: "People"
     url: /people/
