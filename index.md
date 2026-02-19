@@ -32,9 +32,9 @@ Carbon Capture and Storage (CCS) is a climate change mitigation technology desig
 
 </div> 
 
+<br/><br/>
 ![](/assets/images/homepagefig1.png)
 *courtesy of RPS Group*
-
 <br/><br/>
 
 
@@ -49,8 +49,8 @@ Beyond seismic imaging, a multi-physics approach is often employed to provide a 
   
 </div> 
 
-![](/assets/images/homepagefig1.png)
-
+<br/><br/>
+![](/assets/images/homepagefig2.png)
 <br/><br/>
 
 
