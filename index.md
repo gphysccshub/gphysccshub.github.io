@@ -10,6 +10,8 @@ header:
 
 ---
 
+
+<!-- Welcome Section -->
 ### Welcome
 
 <div style="text-align: justify"> 
@@ -20,11 +22,23 @@ Geophysical CCS Hub's mission is to bridge the gap between new talents and indus
 
 <br/><br/>
 
+
+<!-- CCS Section -->
+### $CO_2$ Capture and Storage
+
+<div style="text-align: justify"> 
+
+Carbon Capture and Storage (CCS) is a climate change mitigation technology designed to prevent large amounts of carbon dioxide ($CO_2$) from entering the atmosphere. The process involves three primary stages: capturing the $CO_2$ produced by industrial activities (such as steel manufacturing or power plants), transporting it via pipelines or ships, and finally injecting it deep underground into secure geological formations. Instead of contributing to the greenhouse effect, the gas is permanently stored in depleted oil and gas reservoirs or deep saline aquifers, effectively "locking" it away from the carbon cycle.
+
+</div> 
+
 ![](/assets/images/homepagefig1.png)
 *courtesy of RPS Group*
 
 <br/><br/>
 
+
+<!-- CCS Monitoring Section -->
 
 ### CCS Monitoring
 
