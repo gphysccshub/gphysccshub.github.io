@@ -40,7 +40,7 @@ Carbon Capture and Storage (CCS) is a climate change mitigation technology desig
 
 <!-- CCS Monitoring Section -->
 
-### CCS Monitoring
+### Geophysical CCS Monitoring
 
 <div style="text-align: justify"> 
   
@@ -52,5 +52,20 @@ Beyond seismic imaging, a multi-physics approach is often employed to provide a 
 <br/><br/>
 ![](/assets/images/homepagefig2.png)
 <br/><br/>
+
+
+
+<!-- Geophysical CCS Hub Section -->
+
+### Geophysical CCS Hub
+
+<div style="text-align: justify"> 
+
+The Geophysical CCS Monitoring Hub is a dedicated, community-driven platform designed to support early-career researchers and professionals in the field of carbon capture and storage.It aims to bridge the gap for those entering the discipline, providing a centralized space for engagement and knowledge sharing. News, information, resources, etc. can be found in Posts and Resources tabs.
+  
+</div> 
+
+
+
 
 
