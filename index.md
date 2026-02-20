@@ -61,11 +61,9 @@ Beyond seismic imaging, a multi-physics approach is often employed to provide a 
 
 <div style="text-align: justify"> 
 
-The Geophysical CCS Monitoring Hub is a dedicated, community-driven platform designed to support early-career researchers and professionals in the field of carbon capture and storage.It aims to bridge the gap for those entering the discipline, providing a centralized space for engagement and knowledge sharing. News, information, resources, etc. can be found in Posts and Resources tabs.
+The Geophysical CCS Monitoring Hub is a dedicated, community-driven platform designed to support early-career researchers and professionals in the field of carbon capture and storage.It aims to bridge the gap for those entering the discipline, providing a centralized space for engagement and knowledge sharing. News, information, resources, etc. can be found in <a href="https://gphysccshub.github.io/posts/">Posts</a> tab.
   
 </div> 
-
-
 
 
 
