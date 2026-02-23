@@ -1,10 +1,10 @@
 ---
-title: "Decatur CCS Field"
+title: "Decatur CCS Project"
 date: 2026-01-03
 categories:
-  - Fields
+  - CCS Project
 tags:
-  - Fields
+  - CCS Project
 ---
 
 
