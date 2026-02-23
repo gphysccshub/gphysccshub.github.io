@@ -21,6 +21,8 @@ Geophysical CCS Hub's mission is to bridge the gap between new talents and indus
 </div> 
 
 <br/><br/>
+![](/assets/images/homepagesciencenetwork.png)
+<br/><br/>
 
 
 <!-- CCS Section -->
@@ -33,7 +35,7 @@ Carbon Capture and Storage (CCS) is a climate change mitigation technology desig
 </div> 
 
 <br/><br/>
-![](/assets/images/homepagefig1.png)
+![](/assets/images/homepageccspic.png)
 *courtesy of RPS Group*
 <br/><br/>
 
@@ -50,7 +52,7 @@ Beyond seismic imaging, a multi-physics approach is often employed to provide a 
 </div> 
 
 <br/><br/>
-![](/assets/images/homepagefig2.png)
+![](/assets/images/homepagegphysccspic.png)
 <br/><br/>
 
 
