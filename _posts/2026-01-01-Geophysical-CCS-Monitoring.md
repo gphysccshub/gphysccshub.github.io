@@ -2,9 +2,9 @@
 title: "Geophysical CCS Monitoring"
 date: 2026-01-01
 categories:
-  - Info
+  - CCS Monitoring
 tags:
-  - Info
+  - CCS Monitoring
 ---
 
 
