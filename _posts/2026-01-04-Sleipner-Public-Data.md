@@ -2,9 +2,9 @@
 title: "Sleipner CCS Public Data"
 date: 2026-01-03
 categories:
-  - CCS Project
+  - Data
 tags:
-  - CCS Project
+  - Data
 ---
 
 
