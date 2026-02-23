@@ -17,6 +17,10 @@ The Sleipner CCS (Carbon Capture and Storage) field, located in the Norwegian No
 
 Over nearly three decades of operation, Sleipner has served as a global laboratory for carbon sequestration, successfully storing over 20 million tonnes of CO2. The storage site is protected by a thick shale caprock that prevents the gas from leaking back to the surface. To ensure long-term safety, the project employs advanced monitoring techniques, including time-lapse 3D seismic surveys and gravimetry, to track the movement and stabilization of the CO2 plume within the sandstone. While some unexpected vertical migration was detected in the early years, the project has demonstrated that large-scale geological storage is technically feasible and safe, providing a foundational blueprint for modern CCS initiatives like the Northern Lights project.
 
+<br/><br/>
+![](/assets/images/sleipnergeology.jpg)
+*courtesy of Equinor
+<br/><br/>
 
 <dl>
 
