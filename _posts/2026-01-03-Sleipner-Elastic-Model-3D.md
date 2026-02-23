@@ -1,5 +1,5 @@
 ---
-title: "Sleipner Model 3D"
+title: "Sleipner Elastic Model 3D"
 date: 2026-01-03
 categories:
   - Data
