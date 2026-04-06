@@ -2,9 +2,9 @@
 title: "Sleipner CCS Field"
 date: 2026-01-02
 categories:
-  - CCS Project
+  - CCS Projects
 tags:
-  - CCS Project
+  - CCS Projects
 ---
 
 
