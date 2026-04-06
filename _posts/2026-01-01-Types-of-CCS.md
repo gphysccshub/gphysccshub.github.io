@@ -37,7 +37,7 @@ BECCS is a carbon removal (negative emissions) technology. It combines renewable
 
 <br/><br/>
 ![](/assets/images/beccs.png)
-*Courtesy of BO*
+*Courtesy of BO
 <br/><br/>
 
 
@@ -52,7 +52,7 @@ Unlike the others, DACCS doesn't need a smokestack or a farm. It pulls $CO_{2}$ 
 
 <br/><br/>
 ![](/assets/images/daccs.png)
-*Courtesy of Airbus*
+*Courtesy of Airbus
 <br/><br/>
 
 
