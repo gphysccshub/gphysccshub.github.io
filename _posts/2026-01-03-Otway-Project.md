@@ -18,6 +18,16 @@ tags:
   Monitoring, and Verification (MMV) technologies. In its most recent phase, Stage 3 (concluded in 2022-2023), the project pioneered "on-demand" monitoring techniques, proving that CO2 plumes can be tracked using
   subsurface sensors that are up to 75% more cost-effective than traditional surface seismic surveys.
 
+</div> 
+
+
+<br/><br/>
+![](/assets/images/otwaygeology.png)
+<br/><br/>
+
+
+<div style="text-align: justify"> 
+
 
 <dl>
 
@@ -51,3 +61,14 @@ tags:
 </dl>
 
 </div> 
+
+
+
+
+<br/><br/>
+![](/assets/images/otwayseismic.png)
+<br/><br/>
+
+
+
+
