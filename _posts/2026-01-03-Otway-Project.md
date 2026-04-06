@@ -1,5 +1,5 @@
 ---
-title: "Otway CCS Project"
+title: "Otway Project"
 date: 2026-01-03
 categories:
   - CCS Projects
