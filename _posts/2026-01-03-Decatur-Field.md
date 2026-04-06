@@ -23,6 +23,10 @@ tags:
 ![](/assets/images/decaturlocation.png)
 <br/><br/>
 
+<br/><br/>
+![](/assets/images/decaturgeomodel.png)
+<br/><br/>
+
 
 <div style="text-align: justify"> 
 <dl>
@@ -36,9 +40,6 @@ tags:
     site
   </dd>
 
-<br/><br/>
-![](/assets/images/decaturgeomodel.png)
-<br/><br/>
 
   <dt>Geophysical Monitoring</dt>
   <dd>
@@ -56,11 +57,20 @@ tags:
     the EPA refine the project's safety protocols and secure the site's integrity following the 2024 monitoring well incident
   </dd>
 
-<br/><br/>
-![](/assets/images/decaturseismic.png)
-<br/><br/>
-
   
 </dl>
 
 </div> 
+
+
+
+<br/><br/>
+![](/assets/images/decaturseismic.png)
+<br/><br/>
+
+
+
+
+
+
+
