@@ -2,9 +2,9 @@
 title: "Decatur CCS Project"
 date: 2026-01-03
 categories:
-  - CCS Project
+  - CCS Projects
 tags:
-  - CCS Project
+  - CCS Projects
 ---
 
 
