@@ -36,6 +36,10 @@ tags:
     site
   </dd>
 
+<br/><br/>
+![](/assets/images/decaturgeomodel.png)
+<br/><br/>
+
   <dt>Geophysical Monitoring</dt>
   <dd>
     Geophysical monitoring at the Decatur CCS project is uniquely tailored to the "stiff" rock environment of the Illinois Basin, where detecting CO2 is more challenging than in the softer sands of Sleipner. The
@@ -51,6 +55,10 @@ tags:
     travel through the lower-density CO2 plume. This method recently provided a breakthrough in 2025, revealing how a small portion of the CO2 migrated along a previously unknown fault—an insight that helped ADM and
     the EPA refine the project's safety protocols and secure the site's integrity following the 2024 monitoring well incident
   </dd>
+
+<br/><br/>
+![](/assets/images/decaturseismic.png)
+<br/><br/>
 
   
 </dl>
