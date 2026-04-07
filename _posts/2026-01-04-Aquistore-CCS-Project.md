@@ -19,7 +19,7 @@ The Aquistore Project is one of the world's leading commercial-scale CO2 storage
 <br/><br/>
 
 
-###Field Overview
+### Field Overview
 
 <div style="text-align: justify"> 
 
@@ -47,7 +47,7 @@ The Aquistore Project is one of the world's leading commercial-scale CO2 storage
 </div> 
 
 
-###Geophysical Monitoring
+### Geophysical Monitoring
 
 
 
