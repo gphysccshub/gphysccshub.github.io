@@ -19,6 +19,7 @@ The Aquistore Project is one of the world's leading commercial-scale CO2 storage
 <br/><br/>
 
 
+###Field Overview
 
 <div style="text-align: justify"> 
 
@@ -46,8 +47,35 @@ The Aquistore Project is one of the world's leading commercial-scale CO2 storage
 </div> 
 
 
+###Geophysical Monitoring
 
 
-<br/><br/>
-![](/assets/images/otwayseismic.png)
-<br/><br/>
+
+<div style="text-align: justify"> 
+
+
+<dl>
+
+  <dt>Permanent Surface Array</dt>
+  <dd>
+    Unlike traditional seismic surveys that use trucks once every few years, Aquistore has a permanent grid of 630 geophones buried 20m underground. This allows for "time-lapse" (4D) seismic imaging to      track the movement of the CO2 plume over time.
+  </dd>
+
+  <dt>DAS</dt>
+  <dd>
+    Aquistore was a pioneer in using fiber-optic cables inside the wells. By sending laser pulses through the fiber, the entire cable acts as a continuous string of microphones, capturing seismic data       with much higher resolution and lower cost than traditional geophones.
+  </dd>
+
+  <dt>Passive Seismic</dt>
+  <dd>
+    The array continuously listens for "microseisms" (tiny tremors) to ensure the injection pressure isn't fracturing the rock or compromising the seal.
+  </dd>
+  
+  
+</dl>
+
+</div> 
+
+
+
+
