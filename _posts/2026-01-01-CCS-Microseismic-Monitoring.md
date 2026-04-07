@@ -13,8 +13,8 @@ The installation of a permanent seismic network is required using sensors capabl
 
 
 <br/><br/>
-![](/assets/images/homepageccspic.png)
-*courtesy of RPS Group*
+![](/assets/images/ccsmicro.png)
+*Courtesy of Dynamic Graphics
 <br/><br/>
 
 
@@ -25,6 +25,12 @@ The installation of a permanent seismic network is required using sensors capabl
 The microseismic monitoring is suitable both for depleted field and aquifer storage sites, whether onshore or offshore. The effectiveness of passive seismic techniques depends mainly on the level of both natural and induced seismicity and on the site’s noise level. Indicative costs are estimated to be low “£” to moderate “££”, depending on the network design, versus the 4D seismic “£££”, Initial costs would be relatively high for network installation and design, but followed by much lower annual costs for long-term monitoring.
 
 </div> 
+
+
+<br/><br/>
+![](/assets/images/ccsmicro2.png)
+*Courtesy of Dynamic Graphics
+<br/><br/>
 
 
 
