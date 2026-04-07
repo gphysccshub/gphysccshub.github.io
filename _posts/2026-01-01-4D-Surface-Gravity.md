@@ -8,16 +8,10 @@ tags:
 ---
 
 
-
-<!-- CCS Section -->
-### CO<sub>2</sub> Capture and Storage
-
-<div style="text-align: justify"> 
-
 Time-lapse surface gravity aims to detect changes in the gravitational field caused by a fluid of one density displacing pore fluid of a different density in the reservoir. The method has been deployed in hydrocarbon settings to monitor the movement of water flooding into previously gas-filled pore space. In a saline aquifer setting, it is lower-density CO2 displacing water. Repeated measurements of the gravitational field are made at the same locations on the surface or seabed above a CO2 store, typically at fixed concrete plinths to ensure repeatability. The gravity data can then be inverted and compared to pre-injection baseline data to constrain the distribution of CO2 in the subsurface, as well as the total amount of free-phase CO2 contained in the plume.
 Gravity surveys typically have a cost in the region of one-tenth of that of a 4D survey. Multiplied over the life of the store this has the potential to introduce significant savings. Data acquisition is potentially more flexible and less affected by sea conditions as measurements are typically taken at permanent concrete plinths on the seabed. 4D seismic has a relatively lengthy processing time, whereas gravity would enable earlier detection of any potential irregularities.
 
-</div> 
+
 
 <br/><br/>
 ![](/assets/images/homepageccspic.png)
