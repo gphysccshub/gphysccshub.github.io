@@ -8,12 +8,9 @@ tags:
 ---
 
 
-<div style="text-align: justify"> 
-
 Microseismic monitoring is an established and proven technology in the oil and gas industry for monitoring hydraulic fracturing and assessing the geomechanical stability and any induced seismic hazard due to injection. This methodology can be applied for both production and CO2 storage and makes it perfectly suitable for monitoring CO2 injection. The microseismic data allows analysis of the stress state of the entire storage system and, with accurate analysis, provides an understanding of leakage pathways being created or reactivated.
 The installation of a permanent seismic network is required using sensors capable of recording low‐level seismic events, either naturally occurring or induced by the injection process itself. Typically, geophones are deployed either at the surface, or if possible downhole and the seismic network design depends on the geological and seismic complexity of the area, as well as the logistic and environment characteristics, and by any regulatory requirements.
 
-</div> 
 
 <br/><br/>
 ![](/assets/images/homepageccspic.png)
