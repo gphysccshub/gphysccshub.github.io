@@ -14,8 +14,8 @@ Acquisition of 2D data is significantly cheaper than a full 3D survey, based on 
 
 
 <br/><br/>
-![](/assets/images/homepageccspic.png)
-*courtesy of RPS Group*
+![](/assets/images/2dseismic.png)
+*courtesy of Viridien*
 <br/><br/>
 
 
@@ -28,6 +28,10 @@ For relatively shallow stores, short-streamer site-survey vessels may be adequat
 </div> 
 
 
+<br/><br/>
+![](/assets/images/2dseismic2.png)
+*courtesy of Viridien*
+<br/><br/>
 
 
 ### Negatives
