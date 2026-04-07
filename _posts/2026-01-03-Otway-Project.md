@@ -9,16 +9,9 @@ tags:
 
 
 
-### Otway CCS Project
+The Otway CCS Project, located in southwestern Victoria, Australia, is one of the world’s most advanced field laboratories for carbon sequestration. Managed by CO2CRC, the project has progressed through several stages since 2004, successfully injecting and monitoring over 95,000 tonnes of CO2. Unlike large commercial sites focused solely on volume, Otway’s primary mission is to validate and lower the cost of Measurement, Monitoring, and Verification (MMV) technologies. In its most recent phase, Stage 3 (concluded in 2022-2023), the project pioneered "on-demand" monitoring techniques, proving that CO2 plumes can be tracked using subsurface sensors that are up to 75% more cost-effective than traditional surface seismic surveys.
 
-<div style="text-align: justify"> 
-  
-  The Otway CCS Project, located in southwestern Victoria, Australia, is one of the world’s most advanced field laboratories for carbon sequestration. Managed by CO2CRC, the project has progressed through several stages
-  since 2004, successfully injecting and monitoring over 95,000 tonnes of CO2. Unlike large commercial sites focused solely on volume, Otway’s primary mission is to validate and lower the cost of Measurement,
-  Monitoring, and Verification (MMV) technologies. In its most recent phase, Stage 3 (concluded in 2022-2023), the project pioneered "on-demand" monitoring techniques, proving that CO2 plumes can be tracked using
-  subsurface sensors that are up to 75% more cost-effective than traditional surface seismic surveys.
 
-</div> 
 
 
 <br/><br/>
