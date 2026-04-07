@@ -14,8 +14,8 @@ Gravity surveys typically have a cost in the region of one-tenth of that of a 4D
 
 
 <br/><br/>
-![](/assets/images/homepageccspic.png)
-*courtesy of RPS Group*
+![](/assets/images/ccsgravitytooling.png)
+*Courtesy of Shell
 <br/><br/>
 
 
@@ -29,7 +29,10 @@ For storage sites in which the seismic rock properties are not sensitive to CO2 
 
 </div> 
 
-
+<br/><br/>
+![](/assets/images/gravitysurvey.png)
+*Courtesy of Shell
+<br/><br/>
 
 
 ### Negatives
