@@ -9,14 +9,8 @@ tags:
 
 
 
-### Decatur CCS Project
+The Decatur CCS project (formally the Illinois Industrial Carbon Capture and Storage project) is a landmark bioenergy with carbon capture and storage (BECCS) facility operated by Archer Daniels Midland (ADM) in Illinois. Launched at full scale in 2017 following a successful 2011 pilot, it captures high-purity CO2 produced as a byproduct of corn fermentation at ADM's ethanol plant. This CO2 is compressed into a supercritical state and injected approximately 2,100 meters (7,000 feet) underground into the Mt. Simon Sandstone, a vast saline reservoir. As one of the first commercial-scale CCS operations in the United States, it has safely sequestered nearly 5 million metric tons of $CO_2$ to date, serving as a critical proof-of-concept for decarbonizing the agricultural and biofuels sectors.
 
-<div style="text-align: justify"> 
-  The Decatur CCS project (formally the Illinois Industrial Carbon Capture and Storage project) is a landmark bioenergy with carbon capture and storage (BECCS) facility operated by Archer Daniels Midland (ADM) in Illinois.
-  Launched at full scale in 2017 following a successful 2011 pilot, it captures high-purity CO2 produced as a byproduct of corn fermentation at ADM's ethanol plant. This CO2 is compressed into a supercritical state
-  and injected approximately 2,100 meters (7,000 feet) underground into the Mt. Simon Sandstone, a vast saline reservoir. As one of the first commercial-scale CCS operations in the United States, it has safely sequestered
-  nearly 5 million metric tons of $CO_2$ to date, serving as a critical proof-of-concept for decarbonizing the agricultural and biofuels sectors.
-</div> 
 
 
 <br/><br/>
