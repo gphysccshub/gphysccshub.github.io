@@ -8,15 +8,9 @@ tags:
 ---
 
 
+The Sleipner CCS project is renowned not just for its operational success, but for its role as a "global laboratory," made possible by Equinor’s decision to release extensive monitoring datasets to the public. This openness has allowed researchers worldwide to validate flow models and develop new monitoring techniques. The data can be found <a href="https://co2datashare.org/dataset?tags=sleipner">here</a>.
 
-### Sleipner CCS Public Data
 
-<div style="text-align: justify"> 
-
-  The Sleipner CCS project is renowned not just for its operational success, but for its role as a "global laboratory," made possible by Equinor’s decision to release extensive monitoring datasets to the public. This
-  openness has allowed researchers worldwide to validate flow models and develop new monitoring techniques. The data can be found <a href="https://co2datashare.org/dataset?tags=sleipner">here</a>.
-
-</div> 
 
 <br/><br/>
 ![](/assets/images/sleipnergeology.jpg)
