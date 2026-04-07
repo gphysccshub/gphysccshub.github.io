@@ -1,5 +1,5 @@
 ---
-title: "Otway Project"
+title: "CCS at Aquistore"
 date: 2026-01-03
 categories:
   - CCS Projects
